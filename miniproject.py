@@ -2,7 +2,7 @@ import random
 target=random.randint(1,100)
 while True:
     user_choice=int(input("pick a number OR Quit:"))
-    if(user_choice==Quit):
+    if(user_choice==quit):
         break
     if (target==user_choice):
         print("your guess is right!\n congragulation!!")
