@@ -11,4 +11,4 @@ while True:
         print("oops! your guess is wrong\n your guess is less than target")
     else:
             print("oops! your guess is wrong\n your guess is greater than target")  
-print(----------GAME OVER----------)              
+print("----------GAME OVER----------")              
